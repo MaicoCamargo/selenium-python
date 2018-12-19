@@ -13,23 +13,14 @@ class SeleniumChrome:
 
         try:
             assert 'Jornal' in self.aplication.title
+            self.aplication.find_element_by_id('email').send_keys(email)
+            self.aplication.find_element_by_id('senha').send_keys(password)
+            self.aplication.find_element_by_id('load').submit()
+            time.sleep(3)
+            return True
         except AssertionError:
             self.aplication.quit()
             return False
-        self.aplication.find_element_by_id('email').send_keys(email)
-        self.aplication.find_element_by_id('senha').send_keys(password)
-        self.aplication.find_element_by_id('load').submit()
-        time.sleep(3)
-
-        try:
-            if not self.aplication.find_element_by_id('load'):
-                print('loguei !')
-                return False
-            else:
-                print('erro no login')
-                return True
-        except Exception:
-            return True
 
     def click_menu_lateral(self, op):
         botao = self.aplication.find_element_by_partial_link_text(op)
