@@ -1,0 +1,50 @@
+[[CChhildild 16004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ 1[Chi5536, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Chil
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[[3300:15768:1218/211014.307:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[3300:15768:1218/211014.307:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\maico\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\maico\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_001
+[3300:15768:1218/211014.319:ERROR:disk_cache.cc(184)] Unable to create cache
+[3300:15768:1218/211014.319:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Abrindo em uma sessão de navegador existente.
+[11872:13944:1218/211037.820:ERROR:cache_util_win.cc(19)] Unable to move the cache: 0
+[11872:13944:1218/211037.820:ERROR:cache_util.cc(140)] Unable to move cache folder C:\Users\maico\AppData\Local\Google\Chrome\User Data\ShaderCache\GPUCache to C:\Users\maico\AppData\Local\Google\Chrome\User Data\ShaderCache\old_GPUCache_001
+[11872:13944:1218/211037.820:ERROR:disk_cache.cc(184)] Unable to create cache
+[11872:13944:1218/211037.820:ERROR:shader_disk_cache.cc(622)] Shader Cache Creation failed: -2
+Abrindo em uma sessão de navegador existente.
+[Parent 15548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16304, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc,[Chil line 346d 12520, Chr
+o[Chimld 1e_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12520, Ch[Parent 15548, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14044, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 15424, Chrome_Child[Parent 11964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14200, Chrome_C[Child 14972, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 14972, Chrome[Parent 11964, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9884, Chr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 5888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[Child 11928, Chrome_ChildThread] WARNING[Child 2232, Chrome_: pipe error: 10ChildThrea9: file d] WARNING: pipe error: 109: file z:/build/buz:/build/build/sild/src/ipcrc/ipc//chromium/srchromium/srcc/chrome/common/ipc_cha/chrome/common/ipc_channel_win.cnnel_win.cc, line 346c,
+ line 346
+[Child [Child 11928, Chrome_ChildThread] WARNING: pipe e[Parent 15484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 2788,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+[[[ChilParent 11368, GeCd 1cko_IOThread] WARNING3h: pipe error: 109: file i100ld 11988, z, Chr:/buome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/iild/build/src/ipc/chromium/src/chrome/common/ipc_channelpc/chromium/src/chrome/common/ipc_channel_win.cc, line 346Chrome_ChildThread] WARNING: 
+pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrom_win.e/common/ipc_channel_win.cc, line 346cc
+, line 346
+[Child 11988, Ch[Child 15692, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15692, C[G
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
